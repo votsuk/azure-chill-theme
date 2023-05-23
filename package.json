@@ -1,0 +1,31 @@
+{
+  "name": "azure-chill-theme",
+  "displayName": "azure-chill-theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "stevenkustov",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:votsuk/azure-chill-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Azure Chill",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Azure Chill-color-theme.json"
+      }
+    ]
+  }
+}
