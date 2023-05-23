@@ -1,8 +1,8 @@
 {
   "name": "azure-chill-theme",
-  "displayName": "azure-chill-theme",
+  "displayName": "Azure Chill Theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "stevenkustov",
   "engines": {
     "vscode": "^1.78.0"
